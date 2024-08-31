@@ -2,7 +2,6 @@
  
 Polytechnic University of the Philippines </br>
 Bachelor of Science in Information Technology 2-5 </br>
-A platform for you to share your pet-owner experiences. View our recommended locations and people for your pets. Learn more about your pet and improve your pet-care abilities.
 
 ### Figma Prototype Link
 https://www.figma.com/proto/7QLxC2rddGDxsjKJBLF41G/Main-Project?node-id=1288-19742&starting-point-node-id=1288%3A19742&scaling=scale-down-width&content-scaling=fixed&t=2lh3Wx0w8kGpvckl-1
