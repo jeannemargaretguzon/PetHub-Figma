@@ -1,4 +1,4 @@
-# Pethub: Figma Prototype
+# PetHub: Figma Prototype
  
 Polytechnic University of the Philippines </br>
 Bachelor of Science in Information Technology 2-5 </br>
